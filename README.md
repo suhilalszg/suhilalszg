@@ -16,7 +16,7 @@
 </p>
 
 ### 💡 Featured Projects
-* 🎓 **EduTrack Pro:** A modern Single Page Application (SPA) with Local Storage support, featuring dynamic GPA calculation and official-format PDF transcript generation.
+* 🎓 **EduTrack Pro:** ( https://suhilalszg.github.io/EduTrack-Pro/ ) A modern Single Page Application (SPA) with Local Storage support, featuring dynamic GPA calculation and official-format PDF transcript generation.
 * 🏭 **Smart Quality Control System:** An IoT and embedded systems project utilizing ESP32 and weight sensors to autonomously detect defective products on a production line.
 * 🗺️ **Campus Wayfinding & Signage Quality:** A data analysis project mapping and evaluating the quality of campus directional signage using Geographic Information Systems (GIS) tools.
 
