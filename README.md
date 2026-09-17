@@ -1,32 +1,36 @@
-<h1 align="center">Hi 👋, I'm Hilal Su Süzgeç</h1>
-<h3 align="center">Computer Engineering Graduate | Learning Full-Stack (React, Node.js) & Mobile (Flutter)</h3>
+<h1 align="center">Hilal Su Süzgeç</h1>
+<p align="center"><i>Computer Engineer building across the stack — web, mobile, and enterprise systems.</i></p>
 
-<hr>
-
-- 🌱 Currently learning: **SAP ABAP**, deepening **React**, **Node.js** and **Flutter**
-- 📦 Focusing on: Full-stack web apps & cross-platform mobile apps
-- 📫 Reach me: [suhilalszg@gmail.com](mailto:suhilalszg@gmail.com)
-
-### Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/hilal-su-s-518677347" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,js,html,css" />
 </p>
 
-### Tech Stack:
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,flutter,dart,html,css,git" />
-</p>
+### About
 
-### 💡 Featured Projects (University Years)
+I'm a Computer Engineering graduate from Duzce University, currently interning and
+learning SAP while sharpening my skills in **React / Node.js** for the web and
+**Flutter / Dart** for mobile. I like turning ideas into working products end to end —
+from database design to the screen a user actually taps.
 
-- 🎓 **EduTrack Pro:** ([suhilalszg.github.io/EduTrack-Pro](https://suhilalszg.github.io/EduTrack-Pro/)) A Single Page Application with dynamic GPA calculation and official-format PDF transcript generation.
-- 🏭 **Smart Quality Control System:** Computer vision project using **YOLOv8** to autonomously detect defective products on a production line.
-- 🗺️ **Campus Wayfinding & Signage Quality:** GIS-based data analysis project mapping and evaluating campus directional signage.
+### What I'm working on
 
-<hr>
+| | |
+|---|---|
+| 🔧 | Building full-stack apps with React + Node.js |
+| 📱 | Building cross-platform apps with Flutter |
+| 🏢 | Learning SAP ABAP during my current internship |
 
-<p align="center">⭐️ Always learning and continuously improving myself every single day.</p>
+### Past Projects
+
+**[EduTrack Pro](https://suhilalszg.github.io/EduTrack-Pro/)** — a single-page app for GPA tracking with official-format PDF transcript generation.
+
+**Smart Quality Control System** — computer vision (YOLOv8) for defect detection on a production line.
+
+**Campus Wayfinding & Signage Quality** — GIS-based analysis of campus directional signage.
+
+### Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilal-su-s-518677347)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColo
