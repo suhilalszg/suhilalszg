@@ -1,24 +1,25 @@
-# Hi there! I'm Hilal Su Süzgeç 👋
+<h1 align="center">Hi 👋, I'm Hilal Su Süzgeç</h1>
+<h3 align="center">Computer Engineering Graduate | Learning Full-Stack (React, Node.js) & Mobile (Flutter)</h3>
 
-🎓 Computer Engineering Graduate, Duzce University.
-💻 Currently interning and learning **SAP**, while actively building skills in **web development (React, Node.js)** and **mobile development (Flutter/Dart)**.
-🚀 Passionate about building practical, real-world software solutions.
+<hr>
 
-### 🚧 Currently Learning / Building
+- 🌱 Currently learning: **SAP ABAP**, deepening **React**, **Node.js** and **Flutter**
+- 📦 Focusing on: Full-stack web apps & cross-platform mobile apps
+- 📫 Reach me: [suhilalszg@gmail.com](mailto:suhilalszg@gmail.com)
 
-- Full-stack web apps with **React** + **Node.js**
-- Cross-platform mobile apps with **Flutter** + **Dart**
-- SAP ABAP fundamentals (internship)
+### Connect with me:
 
-### 🛠️ Tech Stack & Tools
+<p align="left">
+<a href="https://www.linkedin.com/in/hilal-su-s-518677347" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Tech Stack:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,flutter,dart,html,css,git" />
+</p>
 
 ### 💡 Featured Projects (University Years)
 
@@ -26,11 +27,6 @@
 - 🏭 **Smart Quality Control System:** Computer vision project using **YOLOv8** to autonomously detect defective products on a production line.
 - 🗺️ **Campus Wayfinding & Signage Quality:** GIS-based data analysis project mapping and evaluating campus directional signage.
 
-### 📫 Let's Connect
+<hr>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhilalszg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilal-su-s-518677347)
-
----
-
-⭐️ *Always learning and continuously improving myself every single day.*
+<p align="center">⭐️ Always learning and continuously improving myself every single day.</p>
